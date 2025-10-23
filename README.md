@@ -44,7 +44,7 @@
 
 ```bash
 cd bin
-g++ OptimizedInteractiveApp.cpp -o OptimizedInteractiveApp.exe -lgdi32 -O2
+g++ OptimizedInteractiveApp.cpp -o HW4.exe -lgdi32 -O2
 ```
 
 ### 直接运行
